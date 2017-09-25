@@ -1,0 +1,7 @@
+{
+  "DBHost"     : "localhost",
+  "DBUser"     : "root",
+  "DBPassword" : "",
+  "Database" : "boilerplate",
+  "secret" : "thisIsUsedForTokensNotImplementedYet"
+}
