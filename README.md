@@ -1,3 +1,5 @@
+This boilerplate was a fast example I made as a student for some students...
+
 # React Express Boilerplate
 ## Table of Contents
 
