@@ -1,4 +1,4 @@
-This boilerplate was a fast example I made as a student for some students...
+This boilerplate was a fast example I made as a student for some students, it's outdated so don't use it for other purposes then learning.
 
 # React Express Boilerplate
 ## Table of Contents
